@@ -21,7 +21,7 @@ nrow(tennis)
 ncol(tennis) 
 colnames(tennis) 
 summary(tennis)
-View(tennis
+View(tennis)
 
 
 ggplot(tennis, aes(y=height)) + geom_boxplot() 
